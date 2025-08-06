@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+*.env
+
+# Editors
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# LangChain
+chroma_db/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Datasets / Cache
+data/raw/
+data/temp/
