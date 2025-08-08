@@ -26,3 +26,6 @@ chroma_db/
 # Datasets / Cache
 data/raw/
 data/temp/
+
+#docs not used
+/data/csv/notUsed/
