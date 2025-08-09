@@ -1,0 +1,215 @@
+﻿YEAR;OBS_VALUE;CROP_LABEL;FREQ;INDICATOR;TIME_FORMAT;UNIT_MULT
+2013;624119296.0;All Cropland;Annual;Low (<10%);Annual;Units
+2013;656959872.0;Cereals;Annual;Low (<10%);Annual;Units
+2013;139840.5938;Cocoa;Annual;Low to medium (10-20%);Annual;Units
+2013;122654848.0;Maize;Annual;Low to medium (10-20%);Annual;Units
+2013;5719637.5;Oil Palm;Annual;Medium to high (20-40%);Annual;Units
+2013;66330.8203;Rubber;Annual;Arid & low water use;Annual;Units
+2013;598627781.4;Maize;Annual;Total production;Annual;Units
+2013;117509348.9;Oil Palm;Annual;Total production;Annual;Units
+2013;56.0;Irrigated Agriculture;Annual;Percent to total in category;Annual;Units
+2013;13.0;Oats;Annual;Percent to total in category;Annual;Units
+2013;14.0;Rubber;Annual;Percent to total in category;Annual;Units
+2013;210.0;Sugar Cane;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;815577.0;Coffee;Annual;Low to medium (10-20%);Annual;Units
+2013;72827264.0;Maize;Annual;Medium to high (20-40%);Annual;Units
+2013;184482816.0;All Cropland;Annual;High (40-80%);Annual;Units
+2013;3961452.25;Canola;Annual;High (40-80%);Annual;Units
+2013;95598016.0;Maize;Annual;Extremely high (>80%);Annual;Units
+2013;3542666.25;Sugar Crops;Annual;Arid & low water use;Annual;Units
+2013;3168486.119;Cocoa;Annual;Total production;Annual;Units
+2013;26307315.31;Oats;Annual;Total production;Annual;Units
+2013;214108608.0;Sugar Cane;Annual;Low to medium (10-20%);Annual;Units
+2013;62414048.0;Fruits;Annual;Low to medium (10-20%);Annual;Units
+2013;276423680.0;Sugar Crops;Annual;Low to medium (10-20%);Annual;Units
+2013;4262673.5;Oats;Annual;Medium to high (20-40%);Annual;Units
+2013;376894080.0;Fodder Crops;Annual;Medium to high (20-40%);Annual;Units
+2013;5441521.0;Oil Palm;Annual;Extremely high (>80%);Annual;Units
+2013;100093224.0;Fruits;Annual;Extremely high (>80%);Annual;Units
+2013;18811.1113;Cocoa;Annual;Arid & low water use;Annual;Units
+2013;56686968.88;Fiber Crops;Annual;Total production;Annual;Units
+2013;6411030.039;Tree Nuts;Annual;Total production;Annual;Units
+2013;10.0;Coffee;Annual;Percent to total in category;Annual;Units
+2013;33.0;Oranges;Annual;Percent to total in category;Annual;Units
+2013;43.0;Wheat;Annual;Percent to total in category;Annual;Units
+2013;31.0;Sugar Crops;Annual;Percent to total in category;Annual;Units
+2013;1080765.75;Tree Nuts;Annual;Medium to high (20-40%);Annual;Units
+2013;79733432.0;Wheat;Annual;High (40-80%);Annual;Units
+2013;69648040.0;Fruits;Annual;High (40-80%);Annual;Units
+2013;114662040.0;Irrigated Agriculture;Annual;Extremely high (>80%);Annual;Units
+2013;10802772.0;Oranges;Annual;Extremely high (>80%);Annual;Units
+2013;49005848.0;Oil Crops;Annual;Extremely high (>80%);Annual;Units
+2013;1986058.625;Tree Nuts;Annual;Extremely high (>80%);Annual;Units
+2013;930261.4375;Oats;Annual;Arid & low water use;Annual;Units
+2013;4383538.5;Fruits;Annual;Arid & low water use;Annual;Units
+2013;967.0;Fruits;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;4055.0;Legumes;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;6154623.0;Oats;Annual;Low to medium (10-20%);Annual;Units
+2013;14009386.0;Oranges;Annual;Low to medium (10-20%);Annual;Units
+2013;490594.875;Oranges;Annual;Arid & low water use;Annual;Units
+2013;34.0;Cereals;Annual;Percent to total in category;Annual;Units
+2013;3310106.0;Cotton;Annual;Low to medium (10-20%);Annual;Units
+2013;51971.8828;Cocoa;Annual;High (40-80%);Annual;Units
+2013;83961216.0;Rice;Annual;High (40-80%);Annual;Units
+2013;47969276.0;Oil Crops;Annual;High (40-80%);Annual;Units
+2013;537383.875;Rubber;Annual;Extremely high (>80%);Annual;Units
+2013;248010608.0;Sugar Crops;Annual;Extremely high (>80%);Annual;Units
+2013;164510715.7;Soybeans;Annual;Total production;Annual;Units
+2013;2233272764.0;Fodder Crops;Annual;Total production;Annual;Units
+2013;387.0;Roots And Tubers;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;190215344.0;Maize;Annual;Low (<10%);Annual;Units
+2013;20660396.0;Legumes;Annual;Low (<10%);Annual;Units
+2013;8070913.0;Legumes;Annual;High (40-80%);Annual;Units
+2013;730014.125;Fiber Crops;Annual;Arid & low water use;Annual;Units
+2013;11396177.0;Cotton;Annual;Low (<10%);Annual;Units
+2013;43620976.0;Irrigated Agriculture;Annual;Medium to high (20-40%);Annual;Units
+2013;55908332.0;Irrigated Agriculture;Annual;High (40-80%);Annual;Units
+2013;21321608.0;Soybeans;Annual;High (40-80%);Annual;Units
+2013;641904145.5;Roots And Tubers;Annual;Total production;Annual;Units
+2013;473972.5;Rubber;Annual;High (40-80%);Annual;Units
+2013;22614674.0;Fiber Crops;Annual;Extremely high (>80%);Annual;Units
+2013;1509725.375;Maize;Annual;Arid & low water use;Annual;Units
+2013;25208236.0;Cereals;Annual;Arid & low water use;Annual;Units
+2013;1788.0;Oats;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;560.0;Oranges;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;129715936.0;Wheat;Annual;Low (<10%);Annual;Units
+2013;3792289.75;Fiber Crops;Annual;Low to medium (10-20%);Annual;Units
+2013;17496738.0;Soybeans;Annual;Medium to high (20-40%);Annual;Units
+2013;60538464.0;Fruits;Annual;Medium to high (20-40%);Annual;Units
+2013;6975705.5;Cotton;Annual;High (40-80%);Annual;Units
+2013;275327776.0;Fodder Crops;Annual;Extremely high (>80%);Annual;Units
+2013;8823574.0;Legumes;Annual;Extremely high (>80%);Annual;Units
+2013;51658194.94;Cotton;Annual;Total production;Annual;Units
+2013;446191954.5;Fruits;Annual;Total production;Annual;Units
+2013;29.0;Rice;Annual;Percent to total in category;Annual;Units
+2013;592897.3125;Tree Nuts;Annual;Low to medium (10-20%);Annual;Units
+2013;886456.375;Rubber;Annual;Medium to high (20-40%);Annual;Units
+2013;10278772.0;Soybeans;Annual;Extremely high (>80%);Annual;Units
+2013;162401936.0;Wheat;Annual;Extremely high (>80%);Annual;Units
+2013;102294416.0;Roots And Tubers;Annual;Extremely high (>80%);Annual;Units
+2013;40963140.0;All Cropland;Annual;Arid & low water use;Annual;Units
+2013;709797.4375;Cotton;Annual;Arid & low water use;Annual;Units
+2013;1215228.0;Legumes;Annual;Arid & low water use;Annual;Units
+2013;235505488.0;Rice;Annual;Low (<10%);Annual;Units
+2013;3860324.5;Rubber;Annual;Low (<10%);Annual;Units
+2013;233457488.0;Oil Crops;Annual;Low (<10%);Annual;Units
+2013;458602144.0;Fodder Crops;Annual;Low to medium (10-20%);Annual;Units
+2013;2153154.5;Oats;Annual;High (40-80%);Annual;Units
+2013;677796.125;Oil Palm;Annual;High (40-80%);Annual;Units
+2013;23147.7012;Coffee;Annual;Arid & low water use;Annual;Units
+2013;861458.1875;Rice;Annual;Arid & low water use;Annual;Units
+2013;38.0;Fruits;Annual;Percent to total in category;Annual;Units
+2013;26.0;Roots And Tubers;Annual;Percent to total in category;Annual;Units
+2013;1222.0;Maize;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;2145.0;Soybeans;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;9063.0;Tree Nuts;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;1247404.0;Rubber;Annual;Low to medium (10-20%);Annual;Units
+2013;34193200.0;Soybeans;Annual;Low to medium (10-20%);Annual;Units
+2013;302309088.0;Cereals;Annual;Medium to high (20-40%);Annual;Units
+2013;71077768.0;Roots And Tubers;Annual;Medium to high (20-40%);Annual;Units
+2013;5400958.0;Canola;Annual;Extremely high (>80%);Annual;Units
+2013;612639.25;Oil Palm;Annual;Arid & low water use;Annual;Units
+2013;6647714.357;Coffee;Annual;Total production;Annual;Units
+2013;197.0;Sugar Crops;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;506825376.0;Sugar Cane;Annual;Low (<10%);Annual;Units
+2013;97356032.0;Roots And Tubers;Annual;Low to medium (10-20%);Annual;Units
+2013;7052969.0;Cotton;Annual;Medium to high (20-40%);Annual;Units
+2013;66280332.0;Roots And Tubers;Annual;High (40-80%);Annual;Units
+2013;26.0;Canola;Annual;Percent to total in category;Annual;Units
+2013;11548354.0;Oats;Annual;Low (<10%);Annual;Units
+2013;16969934.0;Oranges;Annual;Low (<10%);Annual;Units
+2013;195334432.0;All Cropland;Annual;Medium to high (20-40%);Annual;Units
+2013;1258248.875;Oats;Annual;Extremely high (>80%);Annual;Units
+2013;57.0;Cotton;Annual;Percent to total in category;Annual;Units
+2013;2743994.75;Cocoa;Annual;Low (<10%);Annual;Units
+2013;797058944.0;Fodder Crops;Annual;Low (<10%);Annual;Units
+2013;1227104.125;Tree Nuts;Annual;High (40-80%);Annual;Units
+2013;231106064.0;All Cropland;Annual;Extremely high (>80%);Annual;Units
+2013;2667877.0;Oil Crops;Annual;Arid & low water use;Annual;Units
+2013;305013528.0;Irrigated Agriculture;Annual;Total production;Annual;Units
+2013;1827.0;Wheat;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;349542624.0;Cereals;Annual;Low to medium (10-20%);Annual;Units
+2013;89764752.0;Rice;Annual;Medium to high (20-40%);Annual;Units
+2013;7664254.0;Fiber Crops;Annual;Medium to high (20-40%);Annual;Units
+2013;183658336.0;Sugar Crops;Annual;Medium to high (20-40%);Annual;Units
+2013;298247.8125;Coffee;Annual;Extremely high (>80%);Annual;Units
+2013;84565368.0;Rice;Annual;Extremely high (>80%);Annual;Units
+2013;223125.7188;Soybeans;Annual;Arid & low water use;Annual;Units
+2013;2578514.25;Sugar Cane;Annual;Arid & low water use;Annual;Units
+2013;35.0;Maize;Annual;Percent to total in category;Annual;Units
+2013;53.0;Fiber Crops;Annual;Percent to total in category;Annual;Units
+2013;4029.0;Cotton;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;58542312.0;Irrigated Agriculture;Annual;Low (<10%);Annual;Units
+2013;4811123.5;Coffee;Annual;Low (<10%);Annual;Units
+2013;80997272.0;Soybeans;Annual;Low (<10%);Annual;Units
+2013;1448720.625;Tree Nuts;Annual;Low (<10%);Annual;Units
+2013;68936656.0;Oil Crops;Annual;Low to medium (10-20%);Annual;Units
+2013;6861956.0;Legumes;Annual;Low to medium (10-20%);Annual;Units
+2013;317312192.0;Cereals;Annual;High (40-80%);Annual;Units
+2013;28.0;All Cropland;Annual;Percent to total in category;Annual;Units
+2013;31.0;Sugar Cane;Annual;Percent to total in category;Annual;Units
+2013;50.0;Tree Nuts;Annual;Percent to total in category;Annual;Units
+2013;1673.0;Rice;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;13748.0;Rubber;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;29115784.0;Irrigated Agriculture;Annual;Low to medium (10-20%);Annual;Units
+2013;120662.3984;Cocoa;Annual;Medium to high (20-40%);Annual;Units
+2013;115822584.0;Maize;Annual;High (40-80%);Annual;Units
+2013;8821814.0;Oranges;Annual;High (40-80%);Annual;Units
+2013;75483.6016;Tree Nuts;Annual;Arid & low water use;Annual;Units
+2013;53110187.5;Legumes;Annual;Total production;Annual;Units
+2013;19.0;Soybeans;Annual;Percent to total in category;Annual;Units
+2013;22.0;Oil Crops;Annual;Percent to total in category;Annual;Units
+2013;32.0;Legumes;Annual;Percent to total in category;Annual;Units
+2013;2271.0;Canola;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;10375515.0;Oil Palm;Annual;Low to medium (10-20%);Annual;Units
+2013;8287348.5;Canola;Annual;Low to medium (10-20%);Annual;Units
+2013;8628444.0;Oranges;Annual;Medium to high (20-40%);Annual;Units
+2013;131524584.0;Sugar Cane;Annual;Medium to high (20-40%);Annual;Units
+2013;7502836.0;Fiber Crops;Annual;High (40-80%);Annual;Units
+2013;375626880.0;Cereals;Annual;Extremely high (>80%);Annual;Units
+2013;15899887.0;Wheat;Annual;Arid & low water use;Annual;Units
+2013;59722944.88;Oranges;Annual;Total production;Annual;Units
+2013;582248634.2;Rice;Annual;Total production;Annual;Units
+2013;254.0;Fodder Crops;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;149114640.0;Fruits;Annual;Low (<10%);Annual;Units
+2013;299252576.0;Roots And Tubers;Annual;Low (<10%);Annual;Units
+2013;323414.125;Coffee;Annual;Medium to high (20-40%);Annual;Units
+2013;274997600.0;Fodder Crops;Annual;High (40-80%);Annual;Units
+2013;211718272.0;Sugar Crops;Annual;High (40-80%);Annual;Units
+2013;93205.3828;Cocoa;Annual;Extremely high (>80%);Annual;Units
+2013;50392220.0;Fodder Crops;Annual;Arid & low water use;Annual;Units
+2013;1492461380.0;All Cropland;Annual;Total production;Annual;Units
+2013;36234920.47;Canola;Annual;Total production;Annual;Units
+2013;7071872.07;Rubber;Annual;Total production;Annual;Units
+2013;2026958892.0;Cereals;Annual;Total production;Annual;Units
+2013;1481643162.0;Sugar Crops;Annual;Total production;Annual;Units
+2013;5.0;Cocoa;Annual;Percent to total in category;Annual;Units
+2013;1098.0;Oil Palm;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;558289600.0;Sugar Crops;Annual;Low (<10%);Annual;Units
+2013;376204.2188;Coffee;Annual;High (40-80%);Annual;Units
+2013;176563216.0;Sugar Cane;Annual;High (40-80%);Annual;Units
+2013;448526525.0;Oil Crops;Annual;Total production;Annual;Units
+2013;6871523.5;Canola;Annual;Medium to high (20-40%);Annual;Units
+2013;90095048.0;Wheat;Annual;Medium to high (20-40%);Annual;Units
+2013;7478120.5;Legumes;Annual;Medium to high (20-40%);Annual;Units
+2013;565557215.0;Wheat;Annual;Total production;Annual;Units
+2013;3837.0;Fiber Crops;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;94682240.0;Oil Palm;Annual;Low (<10%);Annual;Units
+2013;11343875.0;Canola;Annual;Low (<10%);Annual;Units
+2013;14382901.0;Fiber Crops;Annual;Low (<10%);Annual;Units
+2013;216455632.0;All Cropland;Annual;Low to medium (10-20%);Annual;Units
+2013;46489380.0;Oil Crops;Annual;Medium to high (20-40%);Annual;Units
+2013;22213440.0;Cotton;Annual;Extremely high (>80%);Annual;Units
+2013;214476544.0;Sugar Cane;Annual;Extremely high (>80%);Annual;Units
+2013;3164084.0;Irrigated Agriculture;Annual;Arid & low water use;Annual;Units
+2013;369763.2188;Canola;Annual;Arid & low water use;Annual;Units
+2013;5643021.5;Roots And Tubers;Annual;Arid & low water use;Annual;Units
+2013;5.0;Oil Palm;Annual;Percent to total in category;Annual;Units
+2013;19928.0;Cocoa;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;15897.0;Coffee;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;2364.0;Oil Crops;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
+2013;87590352.0;Rice;Annual;Low to medium (10-20%);Annual;Units
+2013;87710976.0;Wheat;Annual;Low to medium (10-20%);Annual;Units
+2013;1246076842.0;Sugar Cane;Annual;Total production;Annual;Units
+2013;25.0;Fodder Crops;Annual;Percent to total in category;Annual;Units
+2013;1644.0;Cereals;Annual;Total water footprint (m3) per ton of production (Mekonnen and Hoekstra 2011);Annual;Units
