@@ -29,4 +29,4 @@ data/temp/
 
 #docs not used
 /data/csv/notUsed/
-/API-KEY for llm_water_sdg.txt
+/OPENAI_API_KEY.txt
