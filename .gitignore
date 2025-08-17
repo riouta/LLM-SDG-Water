@@ -30,3 +30,4 @@ data/temp/
 #docs not used
 /data/csv/notUsed/
 /OPENAI_API_KEY.txt
+/LANGSMITH_API_KEY.txt
