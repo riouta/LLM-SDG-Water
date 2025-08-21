@@ -33,3 +33,4 @@ data/temp/
 /OPENAI_API_KEY.txt
 /LANGSMITH_API_KEY.txt
 /Finetuned_model_ID.txt
+/.gradio/certificate.pem
